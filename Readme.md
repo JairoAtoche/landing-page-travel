@@ -9,7 +9,7 @@ Aprendiendo a usar tailwindCSS mediante el desarrollo de una landing page que in
 ### Links
 
 - Solution URL: [GitHub](https://github.com/JairoAtoche/landing-page-travel)
-- Live Site URL: [GitHub Pages](https://jairoatoche.github.io/landing-page-travel/)
+- Live Site URL: [GitHub Pages](https://jairoatoche.github.io/landing-page-travel/public/index.html)
 
 
 ### Screenshot
