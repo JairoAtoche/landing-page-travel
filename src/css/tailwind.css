@@ -12,9 +12,9 @@
   }
   
   .faqQuestion {
-    @apply text-lg font-medium text-primary;
+    @apply text-lg font-semibold text-primary dark:text-white;
   }
-  .faqAnswe {
-    @apply text-base pt-2 mb-4;
+  .faqAnswer {
+    @apply text-base font-thin pt-2 mb-4 dark:text-white;
   }
 }
