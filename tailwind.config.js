@@ -6,6 +6,8 @@ module.exports = {
       'primary':"#CC2D4A",
       'secondary':"#8FA206",
       'tertiary':"#61AEC9",
+      'white':"#fff",
+      'gray': "#475569"
     },
     fontFamily: { 
       Montserrat: ["Montserrat", "sans-serif"],
@@ -28,7 +30,10 @@ module.exports = {
 			  'europe': "url('../img/europe.jpg')",
 			  'iceland': "url('../img/iceland.jpg')",
       }
+      
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar-hide')
+  ],
 }
